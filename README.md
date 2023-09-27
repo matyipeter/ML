@@ -4,3 +4,6 @@ Machine Learning
 	-creating, slicing, indexing arrays
 	-datatypes
 	-Shape, Reshape arrays
+    -Iterating through arrays
+    -joining two arrays
+    -splitting arrays
